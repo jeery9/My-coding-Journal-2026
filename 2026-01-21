@@ -1,0 +1,22 @@
+Just beginning everything, with lots of passion to get things done...
+I want to enter inthe IT world with all force innit!
+So I leant some html for this week, and part of next week ihope all will be well
+
+So technically this is what i learnt,
+ok somethng to do with meta boilerplate i dont know if i got it right down there.
+then linking the css file to my html
+i also learnt to make links and to add images...
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta size="device-width">
+		<link type="stylesheet"       -not sure about this i gotta check this again😂😂 am still learning bruh!
+	</head>
+	<body>
+					<a href="https link here"> </a>  <!--TODO:This is for the image link-->
+
+					<img src="image lnk here" alt="The image caption right here">
+
+					<a target="_blank" href="https link here!">  <!--TODO:This opens the link in a new tab-->
